@@ -9,5 +9,5 @@ def findSumMultiples(limitNumber):
             findSumMultiple(15, limitNumber - 1)
 
 
-print('The sum of the multiples of 3 and 5 below 10 is:', findSumMultiples(10))
-print('The sum of the multiples of 3 and 5 below 1000 is:', findSumMultiples(1000))
+print('The sum of the multiples of 3 and 5 below 10     is: ',  findSumMultiples(10)    )
+print('The sum of the multiples of 3 and 5 below 1000   is: ',  findSumMultiples(1000)  )
